@@ -73,9 +73,4 @@ Available scripts (via `pnpm run <script>`):
 [Info about contributing code &raquo;](CONTRIBUTING.md)
 
 
-Host: mysql247.umbler.com
-BD: ceisc
-Usuário: ceisc
-senha: ceisc2025
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ee8692ee-177f-4f70-a53f-28e236fba2a3/deploy-status)](https://app.netlify.com/projects/agendamentosceisc/deploys)
